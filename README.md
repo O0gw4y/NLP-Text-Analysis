@@ -1,9 +1,4 @@
-Here's a complete, professional `README.md` file for your project that explains:
 
-* What your project does (NLP pipeline)
-* How to set it up and run it on **Windows** and **Kali Linux**
-* What each script does
-* How to use the tool effectively
 
 ---
 
@@ -27,7 +22,6 @@ This is a multi-step **Natural Language Processing (NLP)** pipeline that allows 
 
 ## 📂 Project Structure
 
-```bash
 📁 your-project-folder/
 ├── user_data.py            # Accepts user input and saves to a Word doc
 ├── text_processing.py      # Preprocesses the Word doc and saves to Excel
@@ -163,26 +157,3 @@ Final output will be saved as:
   ```
 
 ---
-
-## 📜 License
-
-This project is for educational and research use. You can modify it freely.
-
----
-
-## 🤝 Contributions
-
-PRs and suggestions are welcome!
-
----
-
-## ✍️ Author
-
-Developed by \[Your Name or GitHub Username]
-
-```
-
----
-
-Would you like this content saved as a ready-to-use `README.md` file so you can push it directly to GitHub?
-```
