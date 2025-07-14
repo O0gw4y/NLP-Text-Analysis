@@ -1,0 +1,7 @@
+spacy==3.7.4
+textblob==0.17.1
+pandas==2.1.4
+python-docx==0.8.11
+nltk==3.8.1
+spellchecker==0.7.1
+openpyxl==3.1.2
